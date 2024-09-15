@@ -2,6 +2,8 @@
 
 This project is a REST API for managing workouts and exercises. It supports full CRUD operations for workouts and exercises, allows filtering of workouts by various parameters, and handles user authentication. The API is built with .NET Core, uses MySQL as the database, and does not use Entity Framework. All data operations are handled using stored procedures.
 
+Database link: https://we.tl/t-nUrV4AiKs5
+
 ## Features
 
 1. **CRUD Operations** for workouts and exercises.
