@@ -1,0 +1,6 @@
+@WorkoutKompanionAPI_HostAddress = http://localhost:5119
+
+GET {{WorkoutKompanionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
